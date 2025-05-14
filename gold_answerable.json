@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the definition of token sliding in reconfiguration problems?",
+    "answer_start": 846.72,
+    "answer_end": 855.92
+  },
+  {
+    "question": "How does token jumping differ from token sliding?",
+    "answer_start": 794.16,
+    "answer_end": 879.12
+  },
+  {
+    "question": "Why is the 15 puzzle used to introduce reconfiguration problems?",
+    "answer_start": 196.88,
+    "answer_end": 287.36
+  },
+  {
+    "question": "What makes token sliding harder than token jumping?",
+    "answer_start": 1278.56,
+    "answer_end": 1306.4
+  },
+  {
+    "question": "What is the reconfiguration graph in the context of the 15 puzzle?",
+    "answer_start": 295.28,
+    "answer_end": 375.44
+  },
+  {
+    "question": "What is the significance of C4 and C3-free graphs in complexity results?",
+    "answer_start": 1570.56,
+    "answer_end": 1680.24
+  },
+  {
+    "question": "What was the outcome regarding token sliding on bipartite graphs?",
+    "answer_start": 1506.16,
+    "answer_end": 1528.16
+  },
+  {
+    "question": "How are reconfiguration problems applied in real-world settings?",
+    "answer_start": 920.72,
+    "answer_end": 957.52
+  },
+  {
+    "question": "What are examples of structural questions in reconfiguration graphs?",
+    "answer_start": 367.44,
+    "answer_end": 484.48
+  },
+  {
+    "question": "What are the parameters used in studying parameterized complexity of token sliding?",
+    "answer_start": 1430.8,
+    "answer_end": 1465.6
+  }
+]
